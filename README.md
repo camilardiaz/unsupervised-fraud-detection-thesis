@@ -38,6 +38,8 @@ Transactional-level data with behavioral, device, and network features.
 - Improved early fraud detection without supervised labels
 
 ## Repository Structure
+
+```text
 .
 ├── notebooks/
 │   ├── 01_variable_selection_graphs.ipynb
@@ -48,3 +50,4 @@ Transactional-level data with behavioral, device, and network features.
 │   └── Master_Thesis_Unsupervised_Fraud_Detection.pdf
 │
 └── README.md
+```
